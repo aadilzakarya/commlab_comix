@@ -1,0 +1,199 @@
+html, body{
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+*{
+  box-sizing:border-box;
+  background-color: #f7cac9;
+}
+.comicname{
+font-family: 'Dancing Script', cursive;
+font-size: 90px;
+text-align: center;
+position: static;
+padding: 10px;
+padding-bottom: 0px;
+background-color:#f7cac9;
+}
+
+.instructions{
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+  text-align: center;
+  position: static;
+  padding: 15px;
+  background-color:#f7cac9;
+}
+
+.instructions_text{
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+  text-align: center;
+  position: static;
+  padding: 30px;
+  background-color:#f7cac9;
+}
+.static{
+
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width: 50%;
+  padding-bottom: 150px;
+
+}
+
+.panel1_text{
+  font-size: 40px;
+  font-family: 'Dancing Script', cursive;
+  width: 600px;
+  margin: 7vh 0 5vh 0;
+  line-height: 1.2;
+  background-color: #ff8fa3;
+  padding: 3vmin 2vmin 3vmin 2vmin;
+  border-radius: 2.5vmin;
+  border-style: solid;
+  border-color: black;
+  margin: auto;
+}
+.imageSize{
+  display: none;
+}
+.shocked{
+
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 110%;
+  width: 110%;
+
+}
+.panel2_text{
+  font-size: 40px;
+  position:static;
+  font-family: 'Dancing Script', cursive;
+  width: 600px;
+  margin: 7vh 0 5vh 0;
+  line-height: 1.2;
+  background-color: #ff8fa3;
+  padding: 3vmin 2vmin 3vmin 2vmin;
+  border-radius: 2.5vmin;
+  border-style: solid;
+  border-color: black;
+  margin: auto;
+  margin-top: 0px;
+
+}
+.thinking{
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 110%;
+  width: 110%;
+
+}
+.panel3_text{
+  font-size: 40px;
+  position:static;
+  font-family: 'Dancing Script', cursive;
+  width: 600px;
+  margin: 7vh 0 5vh 0;
+  line-height: 1.2;
+  background-color: #ff8fa3;
+  padding: 3vmin 2vmin 3vmin 2vmin;
+  border-radius: 2.5vmin;
+  border-style: solid;
+  border-color: black;
+  margin: auto;
+  margin-top: 0px;
+}
+.dressing{
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 100%;
+  padding-bottom:-100px;
+
+}
+.dress1{
+  width: 20%;
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button{
+  display: block;
+  position: relative;
+  align-content: center;
+  background-color: #ff8fa3;
+  border-radius: 10px;
+  border: black 2px solid;
+  color: black;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+  width: 600px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button1{
+  display: block;
+  margin: auto;
+  text-align: center;
+  padding-top: 0px;
+
+}
+.button2{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 900px;
+}
+.kitty{
+  display: block;
+  align-items: center;
+  align-self: center;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+  height:50%;
+
+}
+.item{
+  align-self: center;
+  width: 1200px;
+  height: 800px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  background-color: #f0efeb;
+  border: black 2px solid;
+}
+.partystart{
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;
+  text-align: center;
+  position: static;
+  padding: 30px;
+  background-color:#f7cac9;
+}
+.partyscene{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
